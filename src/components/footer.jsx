@@ -7,7 +7,7 @@ export default function Footer() {
         {/* Left Section */}
         <img
           src="/Logo!.png"
-          alt="Ectus Verwaltungs AG Logo"
+          alt="RCH Capital Holding GMBH. Logo"
           className="w-30 h-auto mb-2"
         />
 
@@ -41,7 +41,7 @@ export default function Footer() {
               </svg>
               <span className="font-bold">E-Mail</span>
               <p className="text-gray-600 text-base">
-                info@ectus-verwaltungs-ag.de
+                info@rch-capital-holding.com
               </p>
             </div>
           </div>

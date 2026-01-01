@@ -18,14 +18,14 @@ function Person({ name, role, img, children }) {
 export default function Team() {
   return (
     <div className="grid gap-12 sm:grid-cols-2 lg:grid-cols-3">
-      <Person name="Maximilian Mayer" role="Finanzberater" img="/1.jpg">
-        Maximilian Mayer unterstützt Sie bei Ihren Finanzzielen mit Fachwissen und maßgeschneiderten Lösungen. Wir stehen Ihnen immer zur Seite.
+      <Person name="Christian Herzog" role="Finanzberater" img="/image (1).png">
+        Christian Herzog unterstützt Sie bei Ihren Finanzzielen mit Fachwissen und maßgeschneiderten Lösungen. Wir stehen Ihnen immer zur Seite.
       </Person>
-      <Person name="Jonas Wagner" role="Investmentexperte" img="/2.jpg">
-        Jonas Wagner analysiert Märkte und Chancen, um die besten Investitionsstrategien für unsere Kunden zu entwickeln. Gemeinsam erreichen wir finanzielle Ziele.
+      <Person name="Volker Hartmund" role="Investmentexperte" img="/image (2).png">
+        Volker Hartmund analysiert Märkte und Chancen, um die besten Investitionsstrategien für unsere Kunden zu entwickeln. Gemeinsam erreichen wir finanzielle Ziele.
       </Person>
-      <Person name="Marie Wagenknecht" role="Risikoanalyst" img="/3.jpg">
-        Felix Scholz bewertet Risiken und erstellt Absicherungsstrategien, um Ihre finanzielle Sicherheit zu gewährleisten. Vertrauen Sie auf unsere Expertise.
+      <Person name="Christiane Schneider" role="Sekretärin" img="/image.jpg">
+        Christiane Schneider bewertet Risiken und erstellt Absicherungsstrategien, um Ihre finanzielle Sicherheit zu gewährleisten. Vertrauen Sie auf unsere Expertise.
       </Person>
     </div>
   )

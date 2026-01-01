@@ -8,7 +8,7 @@ const AssetManagementHeroSection = () => {
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <a href="#footer">
-          <button className="bg-[#5f1718] w-full text-white rounded-lg p-[5px_20px] h-[42px]">
+          <button className="bg-[#5639A5] w-full text-white rounded-lg p-[5px_20px] h-[42px]">
             Rufen sie uns an
           </button>
         </a>

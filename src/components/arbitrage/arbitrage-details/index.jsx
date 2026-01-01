@@ -20,7 +20,7 @@ const ArbitrageDetails = () => {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
           <div className="flex flex-col gap-3">
-            <h3 className="text-[#5f1718] text-xl font-normal">
+            <h3 className="text-[#5639A5] text-xl font-normal">
               Vorteile der Arbitrage
             </h3>
             <ol className="list-decimal list-inside text-lg">
@@ -36,7 +36,7 @@ const ArbitrageDetails = () => {
             </ol>
           </div>
           <div className="flex flex-col gap-3">
-            <h3 className="text-[#5f1718] text-xl font-normal">
+            <h3 className="text-[#5639A5] text-xl font-normal">
               Nachteile der Arbitrage
             </h3>
             <ol className="list-decimal list-inside text-lg">

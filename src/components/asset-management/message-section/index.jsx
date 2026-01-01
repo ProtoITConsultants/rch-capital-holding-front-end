@@ -4,7 +4,7 @@ const WelcomMessageSection = () => {
       <div className="max-w-[1040px] text-xl md:text-2xl text-black/80 font-light leading-10 md:leading-12">
         Willkommen bei der
         <br />
-        Ectus Verwaltungs AG, Ihrem verlässlichen Partner in der
+        RCH Capital Holding GMBH, Ihrem verlässlichen Partner in der
         Vermögensverwaltung. In einer Welt, die ständig von finanziellen
         Veränderungen geprägt ist, ist eine kompetente und vorausschauende
         Vermögensverwaltung essenziell. Unser Team besteht aus erfahrenen

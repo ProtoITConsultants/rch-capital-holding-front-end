@@ -27,7 +27,7 @@ export default function Landing() {
           </div>
           <FeatureCards />
           <div className="text-center mt-18">
-            <a className="px-6 py-4 text-white rounded-lg bg-[#5f1718] font-bold">
+            <a className="px-6 py-4 text-white rounded-lg bg-[#5639A5] font-bold">
               Konsultation buchen
             </a>
           </div>
@@ -41,8 +41,8 @@ export default function Landing() {
         copy={
           <>
             <p>
-              Mit Gründung im Jahr 2015 in Kemberg haben wir uns als
-              Finanzberater einen Namen gemacht. Unser Firmensitz in Kemberg,
+              Mit Gründung im Jahr 2015 in Erlangen haben wir uns als
+              Finanzberater einen Namen gemacht. Unser Firmensitz in Erlangen,
               Germany, dient als zentraler Standort für unsere
               Vermögensverwaltungsdienste. Unsere Geschichte begann mit dem
               klaren Ziel, individuelle Finanzlösungen für unsere Kunden zu
@@ -50,7 +50,7 @@ export default function Landing() {
             </p>
             <p>
               Seit unserer Gründung sind wir kontinuierlich gewachsen und sind
-              heute stolz darauf, eine Vielzahl von Kunden in und um Kemberg zu
+              heute stolz darauf, eine Vielzahl von Kunden in und um Erlangen zu
               betreuen. Unsere Expertise und unser Engagement für die
               finanziellen Ziele unserer Kunden haben uns zu einem
               vertrauenswürdigen Partner in allen Fragen der Finanzplanung
@@ -74,7 +74,7 @@ export default function Landing() {
           </div>
           <Strengths />
           <div className="text-center mt-18">
-            <a className="px-6 py-4 text-white rounded-lg bg-[#5f1718] font-bold">
+            <a className="px-6 py-4 text-white rounded-lg bg-[#5639A5] font-bold">
               Konsultation buchen
             </a>
           </div>
@@ -174,7 +174,7 @@ export default function Landing() {
         data-termly-iframe-id="termly-iframe-0" 
         style={{ display: 'block' }} 
         data-autoblock-ignore="1" 
-        src="https://www.google.com/maps?q=51.767013,12.629125&hl=en&z=14&output=embed"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2586.98059972991!2d10.9454587!3d49.579254899999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a201fee8a3b80f%3A0x963ffc23b12ebe60!2sSt.%20Michael%2029%2C%2091056%20Erlangen%2C%20Germany!5e0!3m2!1sen!2s!4v1767283243135!5m2!1sen!2s"
         title="Google Maps Location"
       ></iframe>
 

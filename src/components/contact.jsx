@@ -4,19 +4,19 @@ export default function Contact() {
       <div className="p-6 bg-card h-[90%] self-center flex flex-col justify-between md:col-span-1 col-span-2 text-center lg:text-left">
         <h4 className="font-light text-2xl mb-2">Informationen zum Büro</h4>
         <p className="text-muted-foreground text-lg font-light">
-          Neue Straße 12A
+          Sankt Michael 29,
           <br />
-          06901 Kemberg
+          91056 Erlangen
           <br />
-          Germany
+          Deutschland
           <br />
           Zweigniederlassung
           <br />
-          Ectus Verwaltungs AG
+          RCH Capital Holding GMBH
         </p>
         <div className="mt-4 space-y-8 text-muted-foreground text-lg font-light">
           <p>+49 32 221807849</p>
-          <p>info@ectus-verwaltungs-ag.de</p>
+          <p>info@rch-capital-holding.com</p>
         </div>
       </div>
 
@@ -76,7 +76,7 @@ export default function Contact() {
         <div className="mt-4">
           <button
             type="button"
-            className="px-5 py-3 rounded-md bg-primary text-primary-foreground hover:opacity-90 transition bg-[#5F1718] w-full text-white"
+            className="px-5 py-3 rounded-md bg-primary text-primary-foreground hover:opacity-90 transition bg-[#5639A5] w-full text-white"
           >
             Absenden
           </button>
